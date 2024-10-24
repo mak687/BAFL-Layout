@@ -20,7 +20,7 @@
   display: grid;
   grid-template-areas:
     'nav nav nav nav nav nav'
-    'menu main main main right right'
+    'menu main main main right right';
   padding: 10px;
 }
 
