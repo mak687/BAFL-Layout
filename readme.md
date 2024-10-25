@@ -2,7 +2,7 @@
 
 ## Assignment Team
 
-Assignmet done by *Muhammad Arshad* with a colobration of *Hamza*
+Assignmet done by *Muhammad Arshad* with the colobration of *Hamza*
 
 
 ## Objectives
