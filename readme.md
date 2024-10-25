@@ -1,9 +1,9 @@
 # Layout for Developers
 
-## Project Owner
+## Assignment Team
 
-* Muhammad Arshad
-* Hamza
+Assignmet done by *Muhammad Arshad* with a colobration of *Hamza*
+
 
 ## Objectives
 
